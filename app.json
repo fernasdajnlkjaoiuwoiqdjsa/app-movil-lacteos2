@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "cliente-app-coffeeshop",
+    "slug": "cliente-app-coffeeshop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/vacita-removebg-preview.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/vacita-removebg-preview.png",
+      "name": "Lacteos Doña Queso",
+      "resizeMode": "contain",
+      "backgroundColor": "#DCFFEA"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],        
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/vacita-removebg-preview.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/coffee-cup.png"
+    }
+  }
+}
